@@ -1,1 +1,1 @@
-# TCSS491-Assignment1-Animation
+# TCSS491: Assignment1-Animation
